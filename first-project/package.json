@@ -1,0 +1,19 @@
+{
+  "name": "part1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express.js": "^1.0.0",
+    "http": "^0.0.1-security",
+    "http-server": "^0.12.3",
+    "socket.io": "^4.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
